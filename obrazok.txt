@@ -1,6 +1,0 @@
-\begin{figure*}[tbh]
-\centering
-\includegraphics[scale=0.5,]{obrazok.jpg}
-\caption{Rozhodujúci argument.}
-\label{f:rozhod}
-\end{figure*}
